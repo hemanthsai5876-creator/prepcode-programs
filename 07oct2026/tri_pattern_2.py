@@ -3,4 +3,5 @@ for i in range(9,0,-1):
         print(" ",end="")
     for k in range(i):
         print("*",end=" ")
-    print()
+    print()           
+    
